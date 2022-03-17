@@ -1,1 +1,1 @@
-# RexGS (Rex Google Sheet version)
+# RexGS (Rex Google Spreadsheets)
